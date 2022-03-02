@@ -1,0 +1,15 @@
+body {
+  zoom: 300%;
+  background-color: rgb(139, 15, 15);
+  color: white;
+}
+h1 {
+  text-align: center;
+  color: rgb(233, 173, 61);
+}
+.events {
+  color: aqua;
+}
+.pics {
+  color: rgb(64, 221, 64);
+}
